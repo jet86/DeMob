@@ -1,0 +1,6 @@
+{
+	"name": "DeMob",
+	"version": "0.1",
+	"description": "Automatically convert mobile URLs to desktop versions.",
+	"manifest_version": 2
+}
