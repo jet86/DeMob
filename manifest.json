@@ -5,9 +5,8 @@
 	"manifest_version": 2,
 	"background": {"scripts":["hostlist.js", "background.js"]},
 	"permissions": [
+		"<all_urls>",
 		"webRequest",
-		"*://mobile.reuters.com/*",
-		"*://mobile.twitter.com/*",
 		"webRequestBlocking",
 		"storage"
 	]
