@@ -7,6 +7,7 @@
 	"permissions": [
 		"webRequest",
 		"*://mobile.reuters.com/*",
+		"*://mobile.twitter.com/*",
 		"webRequestBlocking",
 		"storage"
 	]
