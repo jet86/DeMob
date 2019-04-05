@@ -1,7 +1,3 @@
-var hostList = {
-    "*://mobile.twitter.com/*" : "https://twitter.com",
-    "*://mobile.reuters.com/*" : "https://www.reuters.com"
-}
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
         for (const mHost in hostList) {
