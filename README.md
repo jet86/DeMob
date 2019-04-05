@@ -22,6 +22,7 @@ Please [edit hotlist.js](https://github.com/jet86/DeMob/edit/master/hostlist.js)
 
 # Roadmap
 
-* v0.4 (Optionally) automatically remove "m." or "mobile." at the beginning of a URL
-* v0.6 Allow users to submit a domain from the extension to Github as an issue
-* v0.8 Allow users to add custom domains locally, rather than requiring it be added to the inbuilt list
+* v0.3 (Optionally) automatically remove "m." or "mobile." at the beginning of a URL
+* v0.4 Allow users to submit a domain from the extension to Github as an issue
+* v1.0 Added to Chrome Extension webstore
+* v2.0 Allow users to add custom domains locally, rather than requiring it be added to the inbuilt list
