@@ -18,6 +18,6 @@ This will be available once the extension has reached a sufficiently stable deve
 
 # Roadmap
 
-* Automatically remove "m." or "mobile." at the beginning of a URL
-* Allow users to submit a domain from the extension to Github as an issue
-* Allow users to add custom domains locally, rather than requiring it be added to the inbuilt list
+* v0.4 (Optionally) automatically remove "m." or "mobile." at the beginning of a URL
+* v0.6 Allow users to submit a domain from the extension to Github as an issue
+* v0.8 Allow users to add custom domains locally, rather than requiring it be added to the inbuilt list
