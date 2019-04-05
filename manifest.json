@@ -6,7 +6,7 @@
 	"background": {"scripts":["background.js:"]},
 	"permissions": [
 		"webRequest",
-		"*://mobile.reuters.com/*"
+		"*://mobile.reuters.com/*",
 		"webRequestBlocking",
 		"storage"
 	]
