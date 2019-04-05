@@ -16,6 +16,10 @@ Currently it redirects manually added domains.
 
 This will be available once the extension has reached a sufficiently stable development
 
+# Adding sites/domains to be redirected
+
+Please [edit hotlist.js](https://github.com/jet86/DeMob/edit/master/hostlist.js) and submit a pull request
+
 # Roadmap
 
 * v0.4 (Optionally) automatically remove "m." or "mobile." at the beginning of a URL
